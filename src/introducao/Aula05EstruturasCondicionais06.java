@@ -13,6 +13,7 @@ public class Aula05EstruturasCondicionais06 {
                 break;
             default:
                 System.out.println("Número inválido");
+                break;
         }
     }
 }
