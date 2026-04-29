@@ -5,7 +5,7 @@ public class Aula05EstruturasCondicionais06 {
         byte dia = 2;
 
         switch (dia) {
-            case 1, 7:
+            case 1,7:
                 System.out.println("Final de semana");
                 break;
             case 2, 3, 4, 5, 6:
