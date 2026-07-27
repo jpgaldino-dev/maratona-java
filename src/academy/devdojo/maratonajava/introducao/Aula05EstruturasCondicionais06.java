@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionais06 {
     public static void main(String[] args) {
-        byte dia = 2;
+        byte dia = 1;
 
         switch (dia) {
             case 1,7:
