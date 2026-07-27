@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionais05 {
     public static void main(String[] args) {
-        int dia = 1;
+        int dia = 2;
         switch (dia) {
             case 1:
                 System.out.println("dom");
