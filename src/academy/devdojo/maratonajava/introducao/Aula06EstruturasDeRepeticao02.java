@@ -5,7 +5,7 @@ public class Aula06EstruturasDeRepeticao02 {
 
         for (int i = 1; i <= 100; i++) {
             if (i % 2 == 0) {
-                System.out.println("No. " + i);
+                System.out.println("no. " + i);
             }
         }
     }
