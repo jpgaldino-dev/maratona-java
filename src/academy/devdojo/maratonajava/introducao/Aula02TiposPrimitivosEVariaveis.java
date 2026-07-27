@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava.introducao;
 public class Aula02TiposPrimitivosEVariaveis {
     public static void main(String[] args) {
         int idade = 21;
-        long numeroGrande = 2121121212;
+        long numeroGrande = 212112121;
         byte idade2 = 22;
         short idade3 = 23;
         double salario01 = 1.500;
