@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionais02 {
     public static void main(String[] args) {
-        int idade = 14;
+        int idade = 15;
         String categoria;
 
         if (idade < 15) {
