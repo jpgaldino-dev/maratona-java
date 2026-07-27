@@ -5,7 +5,7 @@ public class Aula07Arrays03 {
         int[] numeros = new int[3];
         int[] numeros2 = new int[]{1, 2};
         int[] numeros3 = {1, 2, 3};
-//          for (int i = 0; i < numeros2.length; i++) {
+//          for (int i =0; i < numeros2.length; i++) {
 //            System.out.println(numeros2[i]);
 //            System.out.println(numeros2[i]);
 //         }
